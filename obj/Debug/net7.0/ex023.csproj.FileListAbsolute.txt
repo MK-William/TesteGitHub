@@ -1,0 +1,15 @@
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\bin\Debug\net7.0\ex023.exe
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\bin\Debug\net7.0\ex023.deps.json
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\bin\Debug\net7.0\ex023.runtimeconfig.json
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\bin\Debug\net7.0\ex023.dll
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\bin\Debug\net7.0\ex023.pdb
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.csproj.AssemblyReference.cache
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.AssemblyInfoInputs.cache
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.AssemblyInfo.cs
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.csproj.CoreCompileInputs.cache
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.dll
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\refint\ex023.dll
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.pdb
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ex023.genruntimeconfig.cache
+C:\Users\maiko\OneDrive\Documentos\Cuso C#\ex023\obj\Debug\net7.0\ref\ex023.dll
